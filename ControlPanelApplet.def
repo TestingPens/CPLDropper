@@ -1,0 +1,3 @@
+LIBRARY	"ControlPanelApplet"
+
+EXPORTS CPlApplet
